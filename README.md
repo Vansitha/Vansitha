@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚙ Loading user profile... 
+⚙ Building user profile... 
 
 
 
