@@ -1,6 +1,7 @@
-### Hi there 	:waving_hand_medium_skin_tone:
+### Hi there 👋
 
 ⚙ Building user profile... 
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vansitha&theme=dark&show_icons=true)
