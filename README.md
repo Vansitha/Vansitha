@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hey there 👋
 
-⚙ Building user profile... 
+"Working on mastering the art of software design"
+
+Software Engineering Student 💻
 
 
 
