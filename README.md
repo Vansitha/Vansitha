@@ -8,6 +8,7 @@
 - Software Engineering student 💻. 
 - Currently focusing on applying my learnings into real world practice.
 - I ❤ building **clean**, **resuable** and **extensible** software.
+- Learning everyday!
 
 ### Technologies I work with
 
