@@ -5,9 +5,9 @@
 
 ### About Me
 
-- Software Engineering Student
-- I'm currently focusing on applying my knowledge into practice.
-- I enjoy developing clean, reusable, and extendable software.
+- Software Engineering Student 💻.
+- I'm currently focusing on applying my knowledge into practice ⚙.
+- I enjoy developing **clean**, **reusable**, and **extendable** software 🔁.
 
 ### Technologies I work with
 
