@@ -1,5 +1,6 @@
 
 ### Hi there <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="20px">, I am Vansitha! 
+<span class="wave">👋</span>
 
 **"Thank you for dropping by " + `visitorProfile.getUserName()`;**
 
