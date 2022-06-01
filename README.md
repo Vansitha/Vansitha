@@ -11,4 +11,4 @@
 
 ### Technologies I work with
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30px">
