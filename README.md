@@ -5,9 +5,9 @@
 
 ## About Me
 
-I am currently a software engineering student 💻. 
-Currently focusing only applying my learnings into real world applications.
-I ❤ building **clean**, **resuable** and **extensible** software.
+- I am currently a software engineering student 💻. 
+- Focusing only applying my learnings into real world applications.
+- I ❤ building **clean**, **resuable** and **extensible** software.
 
 ## Technologies I work with
 
