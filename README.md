@@ -12,7 +12,7 @@ I ❤ building **clean**, **resuable** and **extensible** software.
 
 ### Tech Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50px">
 
 
 
