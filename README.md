@@ -7,7 +7,7 @@
 
 - Software Engineering Student 💻.
 - I'm currently focusing on applying my knowledge into practice ⚙.
-- I ❤ developing **clean**, **reusable**, and **extendable** software 🔁.
+- Learning to develop **clean**, **reusable**, and **extendable** software 🔁.
 
 ### Technologies I work with
 
