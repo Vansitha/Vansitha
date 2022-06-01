@@ -1,5 +1,5 @@
 
-### Hi there <span class="wave">👋😄</span>, I am Vansitha! 
+### Hi there, I am Vansitha! <span class="wave">👋😄</span>
 
 
 **"Thank you for dropping by " + `visitorProfile.getUserName()`;**
