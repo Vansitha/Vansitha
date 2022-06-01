@@ -1,5 +1,5 @@
 
-### Hi there <img src="https://gifimage.net/wp-content/uploads/2018/06/waving-hand-gif-11.gif" width="20px">, I am Vansitha! 
+### Hi there <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="20px">, I am Vansitha! 
 
 **"Thank you for dropping by " + `visitorProfile.getUserName()`;**
 
