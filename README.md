@@ -1,4 +1,4 @@
-### Hey 👋 I'm Vansitha! 😄
+# Hey 👋 I'm Vansitha! 😄
 
 ## **"Thank you for dropping by " + `profile.getUserName()`;**
 
