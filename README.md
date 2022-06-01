@@ -1,14 +1,13 @@
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vansitha! 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vansitha! 
 
 **"Thank you for dropping by " + `profile.getUserName()`;**
 
 ### About Me
 
-- Software Engineering student 💻. 
-- Currently focusing on applying my learnings into real world practice.
-- I ❤ building **clean**, **resuable** and **extensible** software.
-- Upgrading everyday 😊...
+- Software Engineering Student
+- I'm currently focusing on applying my knowledge into practice.
+- I enjoy developing clean, reusable, and extendable software.
 
 ### Technologies I work with
 
