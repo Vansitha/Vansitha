@@ -1,5 +1,5 @@
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">, I am Vansitha! 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Vansitha! 
 
 **"Thank you for dropping by " + `visitorProfile.getUserName()`;**
 
