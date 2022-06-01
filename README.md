@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Vansitha! 😄
 
-**##"Thank you for dropping by " + profile.getUserName();**
+##**"Thank you for dropping by " + `profile.getUserName()`;**
 
 About Me
 
