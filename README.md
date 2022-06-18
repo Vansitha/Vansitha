@@ -6,7 +6,7 @@
 
 ### About Me
 
-- Software Engineering Student 💻.
+- Software Engineer in the making 💻.
 - Currently focussed on applying my knowledge into practice ⚙.
 - Learning to develop **clean**, **reusable**, and **extendable** software 🔁.
 
