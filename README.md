@@ -8,7 +8,7 @@
 
 - Software Engineer in the making 💻.
 - Currently focussed on applying my knowledge into practice ⚙.
-- Learning to develop **clean**, **reusable**, and **extendable** software 🔁.
+- Goal is to develop **clean**, **reusable**, and **extendable** software 🔁.
 
 ### Technologies I work with
 
