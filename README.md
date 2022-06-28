@@ -6,7 +6,7 @@
 
 ### About Me
 
-- Software Engineer in the making 💻.
+- Software Engineering Student. 💻.
 - Currently focussed on applying my knowledge into practice ⚙.
 - Goal is to develop **clean**, **reusable**, and **extendable** software 🔁.
 
