@@ -10,3 +10,6 @@
 - Goal is to develop **clean**, **reusable**, and **extendable** software 🔁.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansitha&layout=compact&hide=Makefile,Shell&theme=react)](https://github.com/Vansitha/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vansitha&repo=Project-Initializer)](https://github.com/Vansitha/Project-Initializer)
