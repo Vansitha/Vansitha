@@ -1,4 +1,4 @@
-### Howdy visitor! <span class="wave">👋😄</span>
+## Howdy visitor! <span class="wave">👋😄</span>
 
 ### About me? 💭
 
