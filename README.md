@@ -1,5 +1,5 @@
-
-### Hi there, I am Vansitha! <span class="wave">👋😄</span>
+if (visitor != bot):
+  print("### Howdy visitor, I am Vansitha! <span class="wave">👋😄</span>")
 
 ### Who am I you ask?
 
