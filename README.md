@@ -1,6 +1,8 @@
 
 ### Hi there, I am Vansitha! <span class="wave">👋😄</span>
 
+![Vansitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vansitha&show_icons=true&theme=react)
+
 
 **"Thank you for dropping by " + `visitorProfile.getUserName()`;**
 
