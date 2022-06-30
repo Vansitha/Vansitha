@@ -4,6 +4,6 @@
 
 - Software Engineering Student 💻.
 - Currently working on applying knowledge into practice ⚙.
-- Just build lol 🤣
+- Just build lol 🤣.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansitha&layout=compact&hide=Makefile,Shell&theme=react)](https://github.com/Vansitha/github-readme-stats)
