@@ -1,7 +1,7 @@
 <h1 align="center">Hello! <span class="wave">👋😄</span> </h1>
 
 <p align="center">
-  I am a software engineering undergrad student 🎓 and I love building software. Working on contributing to open source projects!😀
+  I am a software engineering undergraduate student 🎓 and I love building software. Working on contributing to open source projects!😀
 </p>
 
 <div align="center"> 
