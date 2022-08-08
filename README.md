@@ -1,4 +1,4 @@
-<h1 align="center">Howdy visitor! <span class="wave">👋😄</span> </h1>
+<h1 align="center">Hello! <span class="wave">👋😄</span> </h1>
 
 <p align="center">
   I am a software engineering undergrad student 🎓 and I love building software. Working on contributing to open source projects!😀
