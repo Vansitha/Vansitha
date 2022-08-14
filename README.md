@@ -1,4 +1,4 @@
-## Hello! <span class="wave">👋😄</span>
+### Hello! <span class="wave">👋😄</span>
 
 Software engineering student. 🎓 <br>
 Loves building software. ❤ <br> 
