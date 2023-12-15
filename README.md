@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hi! 👋
 
 I'm Vansitha, a passionate software engineering student on a journey of continuous learning and exploration in the tech world. 🚀
 
