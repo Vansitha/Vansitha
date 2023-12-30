@@ -5,4 +5,4 @@ I'm Vansitha, my skills include:
 - Reading the docs and writing unit tests.
 - Debugging code (that I wrote) for 15 hours straight and feeling happy about it once I figure it out.
 
-Well jokes aside, I'm looking forward for colaborting with you to bring an idea to life.  
+Well, jokes aside, if you're looking for someone to collaborate with to bring an idea to life, I'm all up for it. Feel free to drop a text.
