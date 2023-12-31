@@ -7,4 +7,4 @@ I'm Vansitha, here are some facts about me:
 - Can't code without vim motions.
 - Fast learner (actually though not kidding).
 
-Well, jokes aside, if you're looking for someone to collaborate with to bring an idea to life, I'm all up for it. Feel free to drop a text.
+If you're looking for someone to collaborate with to bring an idea to life, I'm all up for it. Feel free to drop a text.
