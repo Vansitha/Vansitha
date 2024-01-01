@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Vansitha, here are some facts about me:
+I'm Vansitha, some facts about me:
 - Able to sit at the desk for 10+ hours straight (do you touch grass bro? no).
 - Likes to read technical documentation during free time. 
 - Loves typing away on a mechanical keyboard all day.
